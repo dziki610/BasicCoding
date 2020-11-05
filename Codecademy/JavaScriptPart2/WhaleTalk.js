@@ -1,4 +1,4 @@
-const input = "Hi Human";
+const input = "Hu Human";
 const vowels = ["a", "e", "i", "o", "u"];
 let resultArray = [];
 
